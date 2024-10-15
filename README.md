@@ -12,7 +12,7 @@ Tools and Techniques:
 - Data visualization: heatmaps, scatter plots.
 - Statistical analysis: partial correlation.
 
-pro2 is my file in which i performed all the programming
+pro2.ipynb is my file in which i performed all the programming
 
 A ppt (Data Acquisition & Data Wrangling Presentation) is also attached showing the details related to the project
 
